@@ -1,4 +1,4 @@
-import com.sebastiangrupo.studios.papidate;
+package com.sebastiangrupo.studios.papidate;
 
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
 import org.bukkit.Bukkit;
