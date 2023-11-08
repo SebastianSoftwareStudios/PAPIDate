@@ -24,7 +24,7 @@ public class PAPIDate extends PlaceholderExpansion {
     }
 
     @Override
-    public String onPlaceholderRequest(String identifier) {
+    public String onPlaceholderRequest(PlaceholderReplaceEvent event) {
 
         if (identifier.equals("world_date")) {
             World world = Bukkit.getWorld("world");
