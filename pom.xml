@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sebastiangrupo.studios</groupId>
   <artifactId>papidate</artifactId>
-  <version>0.3.2</version>
+  <version>0.3.3</version>
   <name>PAPIDate</name>
   <description>Adds a world date placeholder to Placeholder API</description>
     
